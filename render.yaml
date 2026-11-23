@@ -31,7 +31,6 @@ services:
   - type: web
     name: playora-admin
     runtime: static
-    region: oregon
     buildCommand: |
       set -e
       git clone --depth 1 -b stable https://github.com/flutter/flutter.git "$HOME/flutter"

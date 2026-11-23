@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "ind",
+    "name": "India",
+    "shortName": "IND",
+    "players": [
+      {
+        "id": "ind_1",
+        "name": "Rohit Sharma",
+        "teamId": "ind",
+        "roles": [
+          "opener",
+          "batter"
+        ],
+        "batRating": 92,
+        "bowlRating": 18,
+        "fieldRating": 78,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_2",
+        "name": "Virat Kohli",
+        "teamId": "ind",
+        "roles": [
+          "batter",
+          "middleOrder"
+        ],
+        "batRating": 95,
+        "bowlRating": 12,
+        "fieldRating": 88,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_3",
+        "name": "Shubman Gill",
+        "teamId": "ind",
+        "roles": [
+          "opener",
+          "batter"
+        ],
+        "batRating": 88,
+        "bowlRating": 10,
+        "fieldRating": 82,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_4",
+        "name": "Suryakumar Yadav",
+        "teamId": "ind",
+        "roles": [
+          "middleOrder",
+          "batter"
+        ],
+        "batRating": 91,
+        "bowlRating": 8,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_5",
+        "name": "Hardik Pandya",
+        "teamId": "ind",
+        "roles": [
+          "allRounder",
+          "middleOrder"
+        ],
+        "batRating": 84,
+        "bowlRating": 78,
+        "fieldRating": 85,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_6",
+        "name": "Ravindra Jadeja",
+        "teamId": "ind",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 76,
+        "bowlRating": 86,
+        "fieldRating": 94,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_7",
+        "name": "Rishabh Pant",
+        "teamId": "ind",
+        "roles": [
+          "wicketKeeper",
+          "middleOrder"
+        ],
+        "batRating": 86,
+        "bowlRating": 5,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_8",
+        "name": "Axar Patel",
+        "teamId": "ind",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 72,
+        "bowlRating": 82,
+        "fieldRating": 84,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_9",
+        "name": "Jasprit Bumrah",
+        "teamId": "ind",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 22,
+        "bowlRating": 97,
+        "fieldRating": 70,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_10",
+        "name": "Mohammed Siraj",
+        "teamId": "ind",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 18,
+        "bowlRating": 88,
+        "fieldRating": 72,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_11",
+        "name": "Kuldeep Yadav",
+        "teamId": "ind",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 28,
+        "bowlRating": 87,
+        "fieldRating": 68,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_12",
+        "name": "Yashasvi Jaiswal",
+        "teamId": "ind",
+        "roles": [
+          "opener",
+          "batter"
+        ],
+        "batRating": 87,
+        "bowlRating": 14,
+        "fieldRating": 79,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_13",
+        "name": "Shivam Dube",
+        "teamId": "ind",
+        "roles": [
+          "middleOrder",
+          "allRounder"
+        ],
+        "batRating": 80,
+        "bowlRating": 62,
+        "fieldRating": 74,
+        "isOverseas": false
+      },
+      {
+        "id": "ind_14",
+        "name": "Arshdeep Singh",
+        "teamId": "ind",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 16,
+        "bowlRating": 85,
+        "fieldRating": 71,
+        "isOverseas": false
+      }
+    ]
+  },
+  {
+    "id": "aus",
+    "name": "Australia",
+    "shortName": "AUS",
+    "players": [
+      {
+        "id": "aus_1",
+        "name": "David Warner",
+        "teamId": "aus",
+        "roles": [
+          "opener"
+        ],
+        "batRating": 89,
+        "bowlRating": 12,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_2",
+        "name": "Travis Head",
+        "teamId": "aus",
+        "roles": [
+          "opener",
+          "batter"
+        ],
+        "batRating": 90,
+        "bowlRating": 35,
+        "fieldRating": 83,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_3",
+        "name": "Steve Smith",
+        "teamId": "aus",
+        "roles": [
+          "batter",
+          "middleOrder"
+        ],
+        "batRating": 93,
+        "bowlRating": 28,
+        "fieldRating": 86,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_4",
+        "name": "Mitchell Marsh",
+        "teamId": "aus",
+        "roles": [
+          "allRounder",
+          "middleOrder"
+        ],
+        "batRating": 85,
+        "bowlRating": 74,
+        "fieldRating": 82,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_5",
+        "name": "Glenn Maxwell",
+        "teamId": "aus",
+        "roles": [
+          "allRounder",
+          "middleOrder"
+        ],
+        "batRating": 88,
+        "bowlRating": 70,
+        "fieldRating": 90,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_6",
+        "name": "Marcus Stoinis",
+        "teamId": "aus",
+        "roles": [
+          "allRounder",
+          "middleOrder"
+        ],
+        "batRating": 81,
+        "bowlRating": 72,
+        "fieldRating": 78,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_7",
+        "name": "Josh Inglis",
+        "teamId": "aus",
+        "roles": [
+          "wicketKeeper",
+          "batter"
+        ],
+        "batRating": 82,
+        "bowlRating": 5,
+        "fieldRating": 84,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_8",
+        "name": "Pat Cummins",
+        "teamId": "aus",
+        "roles": [
+          "bowler",
+          "allRounder"
+        ],
+        "batRating": 48,
+        "bowlRating": 93,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_9",
+        "name": "Mitchell Starc",
+        "teamId": "aus",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 35,
+        "bowlRating": 94,
+        "fieldRating": 72,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_10",
+        "name": "Adam Zampa",
+        "teamId": "aus",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 24,
+        "bowlRating": 90,
+        "fieldRating": 70,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_11",
+        "name": "Josh Hazlewood",
+        "teamId": "aus",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 20,
+        "bowlRating": 92,
+        "fieldRating": 74,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_12",
+        "name": "Cameron Green",
+        "teamId": "aus",
+        "roles": [
+          "allRounder",
+          "batter"
+        ],
+        "batRating": 79,
+        "bowlRating": 76,
+        "fieldRating": 88,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_13",
+        "name": "Tim David",
+        "teamId": "aus",
+        "roles": [
+          "middleOrder"
+        ],
+        "batRating": 83,
+        "bowlRating": 18,
+        "fieldRating": 76,
+        "isOverseas": false
+      },
+      {
+        "id": "aus_14",
+        "name": "Spencer Johnson",
+        "teamId": "aus",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 14,
+        "bowlRating": 84,
+        "fieldRating": 69,
+        "isOverseas": false
+      }
+    ]
+  },
+  {
+    "id": "eng",
+    "name": "England",
+    "shortName": "ENG",
+    "players": [
+      {
+        "id": "eng_1",
+        "name": "Jos Buttler",
+        "teamId": "eng",
+        "roles": [
+          "opener",
+          "wicketKeeper"
+        ],
+        "batRating": 91,
+        "bowlRating": 5,
+        "fieldRating": 86,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_2",
+        "name": "Phil Salt",
+        "teamId": "eng",
+        "roles": [
+          "opener",
+          "wicketKeeper"
+        ],
+        "batRating": 86,
+        "bowlRating": 5,
+        "fieldRating": 82,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_3",
+        "name": "Harry Brook",
+        "teamId": "eng",
+        "roles": [
+          "batter",
+          "middleOrder"
+        ],
+        "batRating": 90,
+        "bowlRating": 12,
+        "fieldRating": 84,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_4",
+        "name": "Ben Stokes",
+        "teamId": "eng",
+        "roles": [
+          "allRounder",
+          "middleOrder"
+        ],
+        "batRating": 87,
+        "bowlRating": 80,
+        "fieldRating": 88,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_5",
+        "name": "Liam Livingstone",
+        "teamId": "eng",
+        "roles": [
+          "middleOrder",
+          "allRounder"
+        ],
+        "batRating": 84,
+        "bowlRating": 68,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_6",
+        "name": "Moeen Ali",
+        "teamId": "eng",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 74,
+        "bowlRating": 78,
+        "fieldRating": 81,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_7",
+        "name": "Sam Curran",
+        "teamId": "eng",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 72,
+        "bowlRating": 82,
+        "fieldRating": 79,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_8",
+        "name": "Jofra Archer",
+        "teamId": "eng",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 30,
+        "bowlRating": 93,
+        "fieldRating": 76,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_9",
+        "name": "Mark Wood",
+        "teamId": "eng",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 22,
+        "bowlRating": 91,
+        "fieldRating": 70,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_10",
+        "name": "Adil Rashid",
+        "teamId": "eng",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 28,
+        "bowlRating": 89,
+        "fieldRating": 72,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_11",
+        "name": "Reece Topley",
+        "teamId": "eng",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 16,
+        "bowlRating": 85,
+        "fieldRating": 68,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_12",
+        "name": "Will Jacks",
+        "teamId": "eng",
+        "roles": [
+          "opener",
+          "allRounder"
+        ],
+        "batRating": 80,
+        "bowlRating": 66,
+        "fieldRating": 78,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_13",
+        "name": "Jonny Bairstow",
+        "teamId": "eng",
+        "roles": [
+          "opener",
+          "wicketKeeper",
+          "batter"
+        ],
+        "batRating": 85,
+        "bowlRating": 5,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "eng_14",
+        "name": "Chris Jordan",
+        "teamId": "eng",
+        "roles": [
+          "bowler",
+          "allRounder"
+        ],
+        "batRating": 40,
+        "bowlRating": 84,
+        "fieldRating": 90,
+        "isOverseas": false
+      }
+    ]
+  },
+  {
+    "id": "nz",
+    "name": "New Zealand",
+    "shortName": "NZ",
+    "players": [
+      {
+        "id": "nz_1",
+        "name": "Devon Conway",
+        "teamId": "nz",
+        "roles": [
+          "opener",
+          "wicketKeeper"
+        ],
+        "batRating": 88,
+        "bowlRating": 5,
+        "fieldRating": 82,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_2",
+        "name": "Kane Williamson",
+        "teamId": "nz",
+        "roles": [
+          "batter",
+          "middleOrder"
+        ],
+        "batRating": 92,
+        "bowlRating": 30,
+        "fieldRating": 85,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_3",
+        "name": "Finn Allen",
+        "teamId": "nz",
+        "roles": [
+          "opener"
+        ],
+        "batRating": 84,
+        "bowlRating": 8,
+        "fieldRating": 76,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_4",
+        "name": "Daryl Mitchell",
+        "teamId": "nz",
+        "roles": [
+          "middleOrder",
+          "allRounder"
+        ],
+        "batRating": 86,
+        "bowlRating": 62,
+        "fieldRating": 84,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_5",
+        "name": "Glenn Phillips",
+        "teamId": "nz",
+        "roles": [
+          "middleOrder",
+          "wicketKeeper"
+        ],
+        "batRating": 83,
+        "bowlRating": 40,
+        "fieldRating": 92,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_6",
+        "name": "Mitchell Santner",
+        "teamId": "nz",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 68,
+        "bowlRating": 86,
+        "fieldRating": 85,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_7",
+        "name": "Rachin Ravindra",
+        "teamId": "nz",
+        "roles": [
+          "allRounder",
+          "batter"
+        ],
+        "batRating": 84,
+        "bowlRating": 74,
+        "fieldRating": 82,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_8",
+        "name": "Tim Southee",
+        "teamId": "nz",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 32,
+        "bowlRating": 88,
+        "fieldRating": 78,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_9",
+        "name": "Trent Boult",
+        "teamId": "nz",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 28,
+        "bowlRating": 93,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_10",
+        "name": "Lockie Ferguson",
+        "teamId": "nz",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 18,
+        "bowlRating": 90,
+        "fieldRating": 74,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_11",
+        "name": "Ish Sodhi",
+        "teamId": "nz",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 22,
+        "bowlRating": 84,
+        "fieldRating": 70,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_12",
+        "name": "Tom Latham",
+        "teamId": "nz",
+        "roles": [
+          "opener",
+          "wicketKeeper"
+        ],
+        "batRating": 82,
+        "bowlRating": 5,
+        "fieldRating": 86,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_13",
+        "name": "James Neesham",
+        "teamId": "nz",
+        "roles": [
+          "allRounder",
+          "middleOrder"
+        ],
+        "batRating": 74,
+        "bowlRating": 76,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "nz_14",
+        "name": "Matt Henry",
+        "teamId": "nz",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 24,
+        "bowlRating": 87,
+        "fieldRating": 76,
+        "isOverseas": false
+      }
+    ]
+  },
+  {
+    "id": "sa",
+    "name": "South Africa",
+    "shortName": "SA",
+    "players": [
+      {
+        "id": "sa_1",
+        "name": "Quinton de Kock",
+        "teamId": "sa",
+        "roles": [
+          "opener",
+          "wicketKeeper"
+        ],
+        "batRating": 90,
+        "bowlRating": 5,
+        "fieldRating": 84,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_2",
+        "name": "Reeza Hendricks",
+        "teamId": "sa",
+        "roles": [
+          "opener",
+          "batter"
+        ],
+        "batRating": 84,
+        "bowlRating": 10,
+        "fieldRating": 78,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_3",
+        "name": "Aiden Markram",
+        "teamId": "sa",
+        "roles": [
+          "batter",
+          "allRounder"
+        ],
+        "batRating": 86,
+        "bowlRating": 70,
+        "fieldRating": 85,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_4",
+        "name": "Heinrich Klaasen",
+        "teamId": "sa",
+        "roles": [
+          "middleOrder",
+          "wicketKeeper"
+        ],
+        "batRating": 89,
+        "bowlRating": 5,
+        "fieldRating": 82,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_5",
+        "name": "David Miller",
+        "teamId": "sa",
+        "roles": [
+          "middleOrder"
+        ],
+        "batRating": 87,
+        "bowlRating": 8,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_6",
+        "name": "Marco Jansen",
+        "teamId": "sa",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 70,
+        "bowlRating": 86,
+        "fieldRating": 84,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_7",
+        "name": "Keshav Maharaj",
+        "teamId": "sa",
+        "roles": [
+          "bowler",
+          "allRounder"
+        ],
+        "batRating": 48,
+        "bowlRating": 85,
+        "fieldRating": 78,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_8",
+        "name": "Kagiso Rabada",
+        "teamId": "sa",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 28,
+        "bowlRating": 95,
+        "fieldRating": 76,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_9",
+        "name": "Anrich Nortje",
+        "teamId": "sa",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 18,
+        "bowlRating": 92,
+        "fieldRating": 72,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_10",
+        "name": "Tabraiz Shamsi",
+        "teamId": "sa",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 16,
+        "bowlRating": 88,
+        "fieldRating": 68,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_11",
+        "name": "Lungi Ngidi",
+        "teamId": "sa",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 20,
+        "bowlRating": 86,
+        "fieldRating": 70,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_12",
+        "name": "Tristan Stubbs",
+        "teamId": "sa",
+        "roles": [
+          "middleOrder",
+          "batter"
+        ],
+        "batRating": 82,
+        "bowlRating": 22,
+        "fieldRating": 86,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_13",
+        "name": "Gerald Coetzee",
+        "teamId": "sa",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 26,
+        "bowlRating": 85,
+        "fieldRating": 74,
+        "isOverseas": false
+      },
+      {
+        "id": "sa_14",
+        "name": "Rassie van der Dussen",
+        "teamId": "sa",
+        "roles": [
+          "batter",
+          "middleOrder"
+        ],
+        "batRating": 85,
+        "bowlRating": 12,
+        "fieldRating": 80,
+        "isOverseas": false
+      }
+    ]
+  },
+  {
+    "id": "pak",
+    "name": "Pakistan",
+    "shortName": "PAK",
+    "players": [
+      {
+        "id": "pak_1",
+        "name": "Babar Azam",
+        "teamId": "pak",
+        "roles": [
+          "batter",
+          "opener"
+        ],
+        "batRating": 94,
+        "bowlRating": 10,
+        "fieldRating": 84,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_2",
+        "name": "Mohammad Rizwan",
+        "teamId": "pak",
+        "roles": [
+          "opener",
+          "wicketKeeper"
+        ],
+        "batRating": 90,
+        "bowlRating": 5,
+        "fieldRating": 86,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_3",
+        "name": "Fakhar Zaman",
+        "teamId": "pak",
+        "roles": [
+          "opener"
+        ],
+        "batRating": 85,
+        "bowlRating": 12,
+        "fieldRating": 78,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_4",
+        "name": "Saim Ayub",
+        "teamId": "pak",
+        "roles": [
+          "opener",
+          "allRounder"
+        ],
+        "batRating": 82,
+        "bowlRating": 60,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_5",
+        "name": "Shadab Khan",
+        "teamId": "pak",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 74,
+        "bowlRating": 86,
+        "fieldRating": 88,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_6",
+        "name": "Iftikhar Ahmed",
+        "teamId": "pak",
+        "roles": [
+          "middleOrder",
+          "allRounder"
+        ],
+        "batRating": 78,
+        "bowlRating": 64,
+        "fieldRating": 76,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_7",
+        "name": "Imad Wasim",
+        "teamId": "pak",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 70,
+        "bowlRating": 82,
+        "fieldRating": 80,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_8",
+        "name": "Shaheen Afridi",
+        "teamId": "pak",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 30,
+        "bowlRating": 95,
+        "fieldRating": 74,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_9",
+        "name": "Haris Rauf",
+        "teamId": "pak",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 18,
+        "bowlRating": 91,
+        "fieldRating": 72,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_10",
+        "name": "Naseem Shah",
+        "teamId": "pak",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 24,
+        "bowlRating": 89,
+        "fieldRating": 74,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_11",
+        "name": "Abrar Ahmed",
+        "teamId": "pak",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 16,
+        "bowlRating": 86,
+        "fieldRating": 68,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_12",
+        "name": "Usmar Khan",
+        "teamId": "pak",
+        "roles": [
+          "middleOrder"
+        ],
+        "batRating": 81,
+        "bowlRating": 10,
+        "fieldRating": 76,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_13",
+        "name": "Mohammad Nawaz",
+        "teamId": "pak",
+        "roles": [
+          "allRounder",
+          "bowler"
+        ],
+        "batRating": 68,
+        "bowlRating": 80,
+        "fieldRating": 82,
+        "isOverseas": false
+      },
+      {
+        "id": "pak_14",
+        "name": "Abbas Afridi",
+        "teamId": "pak",
+        "roles": [
+          "bowler"
+        ],
+        "batRating": 22,
+        "bowlRating": 84,
+        "fieldRating": 70,
+        "isOverseas": false
+      }
+    ]
+  }
+]

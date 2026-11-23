@@ -1,0 +1,38 @@
+.DS_Store
+.idea/
+*.iml
+*.log
+*.swp
+*.apk
+*.ipa
+
+# Frontend (Flutter)
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/**/doc/api/
+frontend/**/ios/Flutter/.last_build_id
+frontend/android/app/debug
+frontend/android/app/profile
+frontend/android/app/release
+frontend/app.*.symbols
+frontend/app.*.map.json
+
+# Admin (Flutter)
+admin/.dart_tool/
+admin/.flutter-plugins
+admin/.flutter-plugins-dependencies
+admin/.pub-cache/
+admin/.pub/
+admin/build/
+
+# Backend (Node)
+backend/node_modules/
+backend/dist/
+.env
+.env.*
+!.env.example
+

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "SCOUT",
+    "blurb": "Warm up on a tight grid.",
+    "minValue": 1,
+    "maxValue": 50,
+    "maxAttempts": 10,
+    "pointsToUnlock": 0,
+    "multiplier": 1,
+    "accent": 4281594111
+  },
+  {
+    "id": 2,
+    "name": "HUNTER",
+    "blurb": "Classic hunt. Bigger field.",
+    "minValue": 1,
+    "maxValue": 100,
+    "maxAttempts": 12,
+    "pointsToUnlock": 70,
+    "multiplier": 1.25,
+    "accent": 4286381931
+  },
+  {
+    "id": 3,
+    "name": "RANGER",
+    "blurb": "The number can hide much farther.",
+    "minValue": 1,
+    "maxValue": 250,
+    "maxAttempts": 12,
+    "pointsToUnlock": 180,
+    "multiplier": 1.5,
+    "accent": 4294955366
+  },
+  {
+    "id": 4,
+    "name": "ACE",
+    "blurb": "A wide arena. Stay sharp.",
+    "minValue": 1,
+    "maxValue": 500,
+    "maxAttempts": 12,
+    "pointsToUnlock": 360,
+    "multiplier": 2,
+    "accent": 4294917292
+  },
+  {
+    "id": 5,
+    "name": "PHANTOM",
+    "blurb": "The deepest hunt. 1 to 1000.",
+    "minValue": 1,
+    "maxValue": 1000,
+    "maxAttempts": 12,
+    "pointsToUnlock": 650,
+    "multiplier": 2.5,
+    "accent": 4287323391
+  }
+]

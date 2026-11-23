@@ -1,0 +1,18 @@
+{
+  "id": "ipl",
+  "name": "Indian Premier League",
+  "tagline": "Enter as a new side against all 10 franchises. League, playoffs, cup.",
+  "maxOverseasPlayers": 4,
+  "teamIds": [
+    "mi",
+    "csk",
+    "rcb",
+    "kkr",
+    "dc",
+    "rr",
+    "pbks",
+    "srh",
+    "lsg",
+    "gt"
+  ]
+}

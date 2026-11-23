@@ -1,0 +1,62 @@
+[
+  {
+    "id": "number",
+    "title": "NUMBER GAMES",
+    "subtitle": "Logic, range, and sharp guesses.",
+    "accent": 4281594111,
+    "icon": "tag",
+    "games": [
+      {
+        "id": "number_hunter",
+        "title": "NUMBER HUNTER",
+        "tagline": "Track the secret number before shots run out.",
+        "availability": "playable"
+      }
+    ]
+  },
+  {
+    "id": "sports",
+    "title": "SPORTS",
+    "subtitle": "Match-day calls and live plays.",
+    "accent": 4286381931,
+    "icon": "cricket",
+    "games": [
+      {
+        "id": "cricket",
+        "title": "CRICKET",
+        "tagline": "Draft an XI from world teams and autoplay T20.",
+        "availability": "playable"
+      }
+    ]
+  },
+  {
+    "id": "puzzles",
+    "title": "PUZZLES",
+    "subtitle": "Reveal, guess, and sharp eyes.",
+    "accent": 4287323391,
+    "icon": "puzzle",
+    "games": [
+      {
+        "id": "sports_face_puzzle",
+        "title": "FACE REVEAL",
+        "tagline": "Peel numbered tiles and name the sports star in 5 chances.",
+        "availability": "playable"
+      }
+    ]
+  },
+  {
+    "id": "cards",
+    "title": "CARD GAMES",
+    "subtitle": "Stats, calls, and deck battles.",
+    "accent": 4294917292,
+    "icon": "cards",
+    "games": [
+      {
+        "id": "cricket_trump",
+        "title": "STAT BATTLE",
+        "tagline": "Cricket Top Trumps \u2014 pick a stat and empty the CPU deck.",
+        "availability": "playable"
+      }
+    ]
+  }
+]

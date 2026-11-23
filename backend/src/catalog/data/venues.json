@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Wankhede Stadium",
+    "city": "Mumbai",
+    "country": "India",
+    "capacity": 33108,
+    "pitchReport": "True bounce with good carry. New ball seams for the first 4 overs, then the surface flattens for stroke-makers.",
+    "outfieldNote": "Lightning quick outfield \u2014 boundaries come easy once the ball is in the gap.",
+    "weather": "Warm coastal air, clear skies"
+  },
+  {
+    "name": "Melbourne Cricket Ground",
+    "city": "Melbourne",
+    "country": "Australia",
+    "capacity": 100024,
+    "pitchReport": "Hard and lively. Pacers get steep bounce; batters who trust the bounce can free their arms through point and midwicket.",
+    "outfieldNote": "Vast square \u2014 singles are honest, misfields get punished.",
+    "weather": "Cool evening under lights"
+  },
+  {
+    "name": "Lords",
+    "city": "London",
+    "country": "England",
+    "capacity": 30000,
+    "pitchReport": "Classic Lords slope. Early movement both ways; scoreboard pressure if you lose early wickets.",
+    "outfieldNote": "Lush and slightly heavy after the morning dew.",
+    "weather": "Overcast, swing-friendly"
+  },
+  {
+    "name": "Eden Gardens",
+    "city": "Kolkata",
+    "country": "India",
+    "capacity": 68000,
+    "pitchReport": "Dry top with grip for spinners from the middle overs. Pace-on into the pitch still holds.",
+    "outfieldNote": "Big boundaries square of the wicket; straight hits are the safer sixes.",
+    "weather": "Humid night, packed stands"
+  },
+  {
+    "name": "Dubai International Stadium",
+    "city": "Dubai",
+    "country": "UAE",
+    "capacity": 25000,
+    "pitchReport": "Slowish two-paced strip. Change-ups and cutters bite; pure pace can sit up.",
+    "outfieldNote": "Skiddy outfield after sunset \u2014 keep the ball along the carpet.",
+    "weather": "Dry desert heat, no dew early"
+  },
+  {
+    "name": "SuperSport Park",
+    "city": "Centurion",
+    "country": "South Africa",
+    "capacity": 22000,
+    "pitchReport": "Green tinge with carry. First-use seamers will love the corridor; later overs favour clean strikers.",
+    "outfieldNote": "Fast and true \u2014 place it and run hard for twos.",
+    "weather": "Highveld breeze under lights"
+  }
+]

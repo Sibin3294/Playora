@@ -1,0 +1,8 @@
+{
+  "maxLevel": 5,
+  "maxStats": 15,
+  "maxCards": 50,
+  "picksPerAdvance": 3,
+  "deckSizes": [10, 18, 28, 40, 50],
+  "starterStats": ["bat", "bowl", "field", "overall"]
+}

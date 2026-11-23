@@ -12,6 +12,16 @@ flutter pub get
 flutter run -d chrome --web-port=8090
 ```
 
+## Publish folder (Render static)
+
+Render serves the prebuilt `admin/publish/` directory (Flutter is not installed on Render static builds).
+
+```bash
+./scripts/build_publish.sh https://playora-api.onrender.com
+```
+
+Commit `admin/publish/` after rebuilding whenever Admin UI changes.
+
 Default local login:
 
 - email: `admin@playora.local`
